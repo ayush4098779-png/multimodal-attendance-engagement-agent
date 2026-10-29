@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-29T17:17:30",
+  "project": "Multimodal Attendance & Engagement Agent",
+  "prototype_engagement_indicator_percent": 73.5,
+  "vision": {
+    "source": "SIMULATED DEMO DATA",
+    "duration_seconds": 600,
+    "frames_processed": 300,
+    "frames_with_face": 246,
+    "face_frame_ratio": 0.82,
+    "note": "Simulated example only; not an actual attendance record."
+  },
+  "audio": {
+    "audio_file": "SIMULATED DEMO DATA",
+    "duration_seconds": 600,
+    "active_windows": 390,
+    "total_windows": 600,
+    "activity_ratio": 0.65,
+    "note": "Simulated activity only; not real speech analysis."
+  },
+  "teaching_suggestions": [
+    "Indicators do not show a strong alert. Use a quick formative question to confirm learner understanding."
+  ],
+  "limitations": [
+    "This score is a demonstration indicator, not a validated measure of attention.",
+    "Face detections do not identify people or prove individual attendance.",
+    "Audio energy does not reliably distinguish speech from noise.",
+    "Use only consented media and follow institutional privacy requirements."
+  ]
+}
